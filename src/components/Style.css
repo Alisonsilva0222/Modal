@@ -1,0 +1,30 @@
+ .modal {
+    border-radius: 5px;
+    padding: 1rem;
+    background-color: white;
+    width: 45em;
+  }
+  
+  .close {
+    cursor: pointer;
+  }
+  
+  .modal-header {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 2rem;
+  }
+
+  #close-up{
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 45px;
+    margin-top: 0px;
+  }
+  #close-y{
+    margin-top: -15px;
+  }
+  
+
+  
